@@ -1,0 +1,2 @@
+To run this you must have jupiter notebool in you pc.
+Then simpily run this crime-checkpoint.ipynb in notebook
